@@ -1,6 +1,6 @@
 #!/bin/bash
 # Create or Delete Instance bastion
-# Renato Marigo - renatocabelo@gmail.com
+# Renato Marigo
 
 # Variables
 NAME="<name>"
